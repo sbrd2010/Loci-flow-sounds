@@ -1,122 +1,178 @@
 {
-    "piano":  [
-                  {
-                      "file":  "sounds/piano/dusk-between-stoops.mp3",
-                      "title":  "Dusk Between Stoops"
-                  },
-                  {
-                      "file":  "sounds/piano/porchlight-golden-hour.mp3",
-                      "title":  "Porchlight Golden Hour"
-                  },
-                  {
-                      "file":  "sounds/piano/soft-gold-sky.mp3",
-                      "title":  "Soft Gold Sky"
-                  },
-                  {
-                      "file":  "sounds/piano/window-seat-daydream.mp3",
-                      "title":  "Window Seat Daydream"
-                  },
-                  {
-                      "file":  "sounds/piano/glow-on-the-overpass.mp3",
-                      "title":  "Glow on the Overpass"
-                  },
-                  {
-                      "file":  "sounds/piano/sidewalk-slow-jam.mp3",
-                      "title":  "Sidewalk Slow Jam"
-                  },
-                  {
-                      "file":  "sounds/piano/sunset-offbeat.mp3",
-                      "title":  "Sunset Offbeat"
-                  }
-              ],
-    "jazz":  [
-                 {
-                     "file":  "sounds/jazz/rain-on-the-boulevard.mp3",
-                     "title":  "Rain on the Boulevard"
-                 },
-                 {
-                     "file":  "sounds/jazz/breezy-afternoon-terrace.mp3",
-                     "title":  "Breezy Afternoon Terrace"
-                 },
-                 {
-                     "file":  "sounds/jazz/saxophone-in-the-rain.mp3",
-                     "title":  "Saxophone in the Rain"
-                 },
-                 {
-                     "file":  "sounds/jazz/candlelit-at-70-bpm.mp3",
-                     "title":  "Candlelit at 70 BPM"
-                 },
-                 {
-                     "file":  "sounds/jazz/linen-and-limoncello.mp3",
-                     "title":  "Linen and Limoncello"
-                 },
-                 {
-                     "file":  "sounds/jazz/ashes-in-the-coffee-cup.mp3",
-                     "title":  "Ashes in the Coffee Cup"
-                 },
-                 {
-                     "file":  "sounds/jazz/last-call-in-c-minor.mp3",
-                     "title":  "Last Call in C Minor"
-                 }
-             ],
-    "lofi":  [
-                 {
-                     "file":  "sounds/lofi/first-coffee-thoughts.mp3",
-                     "title":  "First Coffee Thoughts"
-                 },
-                 {
-                     "file":  "sounds/lofi/penciled-sunbeams.mp3",
-                     "title":  "Penciled Sunbeams"
-                 },
-                 {
-                     "file":  "sounds/lofi/terminal-rain.mp3",
-                     "title":  "Terminal Rain"
-                 },
-                 {
-                     "file":  "sounds/lofi/coffee-ring-notebook.mp3",
-                     "title":  "Coffee Ring Notebook"
-                 },
-                 {
-                     "file":  "sounds/lofi/graphite-mornings.mp3",
-                     "title":  "Graphite Mornings"
-                 },
-                 {
-                     "file":  "sounds/lofi/margin-notes-at-dusk.mp3",
-                     "title":  "Margin Notes at Dusk"
-                 },
-                 {
-                     "file":  "sounds/lofi/morning-pages.mp3",
-                     "title":  "Morning Pages"
-                 }
-             ],
-    "rain":  [
-                 {
-                     "file":  "sounds/rain/amber-sidewalks.mp3",
-                     "title":  "Amber Sidewalks"
-                 },
-                 {
-                     "file":  "sounds/rain/sidewalk-puddles.mp3",
-                     "title":  "Sidewalk Puddles"
-                 },
-                 {
-                     "file":  "sounds/rain/blossoms-on-the-pavement.mp3",
-                     "title":  "Blossoms on the Pavement"
-                 },
-                 {
-                     "file":  "sounds/rain/petals-after-rain.mp3",
-                     "title":  "Petals After Rain"
-                 },
-                 {
-                     "file":  "sounds/rain/amber-windowpane.mp3",
-                     "title":  "Amber Windowpane"
-                 },
-                 {
-                     "file":  "sounds/rain/storm-over-side-streets.mp3",
-                     "title":  "Storm Over Side Streets"
-                 },
-                 {
-                     "file":  "sounds/rain/bloom-between-showers.mp3",
-                     "title":  "Bloom Between Showers"
-                 }
-             ]
+    "piano": [
+        {
+            "file": "sounds/piano/dusk-between-stoops.mp3",
+            "title": "Dusk Between Stoops"
+        },
+        {
+            "file": "sounds/piano/porchlight-golden-hour.mp3",
+            "title": "Porchlight Golden Hour"
+        },
+        {
+            "file": "sounds/piano/soft-gold-sky.mp3",
+            "title": "Soft Gold Sky"
+        },
+        {
+            "file": "sounds/piano/window-seat-daydream.mp3",
+            "title": "Window Seat Daydream"
+        },
+        {
+            "file": "sounds/piano/glow-on-the-overpass.mp3",
+            "title": "Glow on the Overpass"
+        },
+        {
+            "file": "sounds/piano/sidewalk-slow-jam.mp3",
+            "title": "Sidewalk Slow Jam"
+        },
+        {
+            "file": "sounds/piano/sunset-offbeat.mp3",
+            "title": "Sunset Offbeat"
+        }
+    ],
+    "jazz": [
+        {
+            "file": "sounds/jazz/rain-on-the-boulevard.mp3",
+            "title": "Rain on the Boulevard"
+        },
+        {
+            "file": "sounds/jazz/breezy-afternoon-terrace.mp3",
+            "title": "Breezy Afternoon Terrace"
+        },
+        {
+            "file": "sounds/jazz/saxophone-in-the-rain.mp3",
+            "title": "Saxophone in the Rain"
+        },
+        {
+            "file": "sounds/jazz/candlelit-at-70-bpm.mp3",
+            "title": "Candlelit at 70 BPM"
+        },
+        {
+            "file": "sounds/jazz/linen-and-limoncello.mp3",
+            "title": "Linen and Limoncello"
+        },
+        {
+            "file": "sounds/jazz/ashes-in-the-coffee-cup.mp3",
+            "title": "Ashes in the Coffee Cup"
+        },
+        {
+            "file": "sounds/jazz/last-call-in-c-minor.mp3",
+            "title": "Last Call in C Minor"
+        }
+    ],
+    "lofi": [
+        {
+            "file": "sounds/lofi/first-coffee-thoughts.mp3",
+            "title": "First Coffee Thoughts"
+        },
+        {
+            "file": "sounds/lofi/penciled-sunbeams.mp3",
+            "title": "Penciled Sunbeams"
+        },
+        {
+            "file": "sounds/lofi/terminal-rain.mp3",
+            "title": "Terminal Rain"
+        },
+        {
+            "file": "sounds/lofi/coffee-ring-notebook.mp3",
+            "title": "Coffee Ring Notebook"
+        },
+        {
+            "file": "sounds/lofi/graphite-mornings.mp3",
+            "title": "Graphite Mornings"
+        },
+        {
+            "file": "sounds/lofi/margin-notes-at-dusk.mp3",
+            "title": "Margin Notes at Dusk"
+        },
+        {
+            "file": "sounds/lofi/morning-pages.mp3",
+            "title": "Morning Pages"
+        }
+    ],
+    "rain": [
+        {
+            "file": "sounds/rain/calming-rain.mp3",
+            "title": "Calming Rain"
+        },
+        {
+            "file": "sounds/rain/gentle-rain.mp3",
+            "title": "Gentle Rain"
+        },
+        {
+            "file": "sounds/rain/light-rain-loop.mp3",
+            "title": "Light Rain Loop"
+        },
+        {
+            "file": "sounds/rain/rain-in-the-jungle-and-birds.mp3",
+            "title": "Rain in the Jungle and Birds"
+        }
+    ],
+    "nature": [
+        {
+            "file": "sounds/nature/river-atmosphere.mp3",
+            "title": "River Atmosphere"
+        },
+        {
+            "file": "sounds/nature/river-wildlife-environment.mp3",
+            "title": "River Wildlife Environment"
+        }
+    ],
+    "chillhop": [
+        {
+            "file": "sounds/chillhop/aerohead-leaving.mp3",
+            "title": "Leaving"
+        },
+        {
+            "file": "sounds/chillhop/nettson-dont-leave.mp3",
+            "title": "Don't Leave"
+        },
+        {
+            "file": "sounds/chillhop/oraeth-reflections.mp3",
+            "title": "Reflections"
+        },
+        {
+            "file": "sounds/chillhop/oraeth-still-falling.mp3",
+            "title": "Still Falling"
+        },
+        {
+            "file": "sounds/chillhop/neutrin05-rain-and-tears.mp3",
+            "title": "Rain and Tears"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-aura.mp3",
+            "title": "Aura"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-dawn.mp3",
+            "title": "Dawn"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-escape.mp3",
+            "title": "Escape"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-falling.mp3",
+            "title": "Falling"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-memories.mp3",
+            "title": "Memories"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-passion.mp3",
+            "title": "Passion"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-descent.mp3",
+            "title": "Descent"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-embrace.mp3",
+            "title": "Embrace"
+        },
+        {
+            "file": "sounds/chillhop/sappheiros-stay.mp3",
+            "title": "Stay"
+        }
+    ]
 }
