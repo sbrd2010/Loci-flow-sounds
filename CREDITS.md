@@ -30,8 +30,8 @@ This repository hosts ambient audio variation loops for Loci Flow, served public
   an adaptation, so CC BY-SA imposes no licensing condition on Loci Flow itself.
   Attribution and the licence link are required either way.
 - **Tracks & Accreditation**:
-  - **Leaving** by aerohead | https://soundcloud.com/aerohead
-    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Leaving** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
   - **Don't Leave** by Nettson | https://soundcloud.com/nettson
     Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
   - **Reflections** by Oraeth | https://soundcloud.com/oraeth
