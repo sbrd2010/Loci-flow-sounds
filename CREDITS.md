@@ -22,7 +22,13 @@ This repository hosts ambient audio variation loops for Loci Flow, served public
 
 ### 3. Chillhop
 - **Source**: Sourced from [Free Stock Music](https://www.free-stock-music.com).
-- **License**: Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+- **License**: Mixed. Most tracks are Creative Commons Attribution 3.0 Unported
+  (CC BY 3.0); the AERØHEAD tracks marked below are Creative Commons
+  Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0). The licence stated on each
+  individual track is the authoritative one. ShareAlike obligations attach to
+  *adaptations* — these tracks play unmodified as background audio, which is not
+  an adaptation, so CC BY-SA imposes no licensing condition on Loci Flow itself.
+  Attribution and the licence link are required either way.
 - **Tracks & Accreditation**:
   - **Leaving** by aerohead | https://soundcloud.com/aerohead
     Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
@@ -52,6 +58,28 @@ This repository hosts ambient audio variation loops for Loci Flow, served public
     Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
   - **Stay** by Sappheiros | https://soundcloud.com/sappheirosmusic
     Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **KTSG - Celestial (Sappheiros Remix)** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **The Sound Of Rain** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Truth** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Seasons** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Sorrow** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Lights** by Sappheiros | https://soundcloud.com/sappheirosmusic
+    Licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  - **Fragments** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+  - **Perilune** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+  - **Lights Of Elysium** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+  - **The Long Road Home** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+  - **Giving Way** by AERØHEAD | https://soundcloud.com/aerohead
+    Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ---
 
